@@ -1,0 +1,8 @@
+# env and config
+.env
+
+# jupyter
+**/.ipynb_checkpoints/
+
+# virtual environments
+mcp
